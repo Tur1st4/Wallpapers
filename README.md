@@ -19,6 +19,6 @@ Você também pode ir no botão ai em cima `Clone or download`, clique nele e se
 Caso queira conversar sobre o projeto ou qualquer assunto que te interesse, entre no meu servidor do [Discord](https://discord.gg/HjRDBQQ).
 Onde estou desenvolvendo bots próprios e sempre fazendo zueirinhas!
 
-Conheça o projeto _Arch Install_
+Conheça o projeto [Arch Install](https://github.com/Tur1st4/Arch-Install).
 
 Caso queira apoiar algum dos meus projetos ou manter os bots ativos, doe qualquer valor pelo [Paypal](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=WFKSH5C6K6XAG&source=url).
