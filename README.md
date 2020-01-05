@@ -1,4 +1,4 @@
-![Fundador](https://img.shields.io/badge/Fundador-Tur1st4-red.svg?style=for-the-badge&logo=arch-linux) ![Discord](https://img.shields.io/badge/Chat-Discord-blue.svg?style=for-the-badge&logo=Discord)
+![Fundador](https://img.shields.io/badge/Fundador-Tur1st4-red.svg?style=for-the-badge&logo=arch-linux)
 
 # Wallpapers
 Minhas criações e rabiscos :v
